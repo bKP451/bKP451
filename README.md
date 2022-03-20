@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bKP451
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in ... football.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...bkppandey87@gmail.com
 
