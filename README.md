@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @bKP451 [ Pandey Bikash ]
-- 🌱 I’m a software developer.
-- 💞️ I’m looking to collaborate on interesting projects...
-- 📫 How to reach me hello@pandeybikash.com
+- 👋 Hi, I’m @bKP451 [ Pandey Bikash ] hello@pandeybikash.com
 
 
 <!---
